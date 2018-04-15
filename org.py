@@ -1,10 +1,10 @@
 import os
 
 trainPath = os.getcwd() + "/data/train/"
-labelPath = os.getcwd() + "/data/label/"
+maskPath = os.getcwd() + "/data/mask/"
 
 for imName in os.listdir(trainPath):
-    if imName.endswith("_sat.jpg"):
+    if imName.endswith("_mask.png"):
         imPath = trainPath  + imName
-        imPathNew = labelPath + imName
+        imPathNew = maskPath + imName
         os.rename(imPath, imPathNew)
