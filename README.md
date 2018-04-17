@@ -2,7 +2,7 @@
 
 **Jennifer Ding and Renran Zhou**
 
-This project is part of the DeepGlobe CVPR Road Extractino challenge from DigitalGlobe satellite imamges.
+This Cornell Tech CS 5304 project is part of the DeepGlobe CVPR Road Extractino challenge from DigitalGlobe satellite images.
 
 # File Descriptions
 ```org.py```: organizes train images into mask and satellite image folders <br>
