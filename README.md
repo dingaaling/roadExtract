@@ -11,6 +11,5 @@ This Cornell Tech CS 5304 project is part of the DeepGlobe CVPR Road Extractino 
 ```imageLoad.ipynb```: Ensuring the same image and mask are loaded together <br>
 ```logisticregression.ipynb```: Baseline supervised model testing <br>
 ```org.py```: Organizes train images into mask and satellite image folders <br>
-```logisticregression.ipynb```: Changing the label setting method to read the center of each window as Label <br>
-
+```pixelLabel.ipynb```: Changing the label setting method to read the center of each window as Label <br>
 
