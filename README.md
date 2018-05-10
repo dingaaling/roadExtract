@@ -5,7 +5,12 @@
 This Cornell Tech CS 5304 project is part of the DeepGlobe CVPR Road Extractino challenge from DigitalGlobe satellite images.
 
 # File Descriptions
-```org.py```: organizes train images into mask and satellite image folders <br>
-```featureExtract.py```: python3 code for helper functions <br>
-```logisticregression.ipynb```: Jupyter notebook for baseline supervised model testing <br>
-```cnn_new.ipynb```: Jupyter notebook for cnn model testing <br>
+```cnn.ipynb```: Final CNN model <br>
+<br>
+```featureExtract.py```: Python3 code for helper functions <br>
+```imageLoad.ipynb```: Ensuring the same image and mask are loaded together <br>
+```logisticregression.ipynb```: Baseline supervised model testing <br>
+```org.py```: Organizes train images into mask and satellite image folders <br>
+```logisticregression.ipynb```: Changing the label setting method to read the center of each window as Label <br>
+
+
