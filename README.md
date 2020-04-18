@@ -1,8 +1,18 @@
-## DeepGlobe Road Extraction from Satellite Imagery
+# DeepGlobe Road Extraction from Satellite Imagery
 
 **Jennifer Ding and Renran Zhou**
 
 This Cornell Tech CS 5304 project is part of the DeepGlobe CVPR Road Extraction challenge from DigitalGlobe satellite images.
+
+
+## Road Extraction Example
+
+Actual Road Segment
+![](https://github.com/dingaaling/roadExtract/blob/master/real_mask.png)
+
+Predicted Road Segment
+![](https://github.com/dingaaling/roadExtract/blob/master/real_mask.png)
+
 
 # File Descriptions
 ```cnn.ipynb```: Final CNN model <br>
